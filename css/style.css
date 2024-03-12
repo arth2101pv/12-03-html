@@ -125,3 +125,13 @@ h2 {
     background-position: center;
     background-size: cover;
 }
+
+.padding, .without-padding {
+    background-color: #111;
+    color: #fff;
+}
+
+.padding {
+    background-color: #333;
+    padding: 20px;
+}
