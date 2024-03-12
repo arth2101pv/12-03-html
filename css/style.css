@@ -1,0 +1,43 @@
+/* body {
+    background-color: burlywood;
+} */
+
+/* p{
+    color: blueviolet;
+    font-size: 80px;
+} */
+
+body {
+    padding-bottom: 500px;
+}
+
+/* 08 Classes */
+
+.paragraph {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
+
+/* 09 ID */
+
+#exclusive-title {
+    background-color: purple;
+    color: beige;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* 10 Multíplas regras */
+
+h2 {
+    border-bottom: 2px dotted red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo {
+    border-bottom: 4px solid green;
+}
